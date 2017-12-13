@@ -1,0 +1,49 @@
+﻿Installing assembly 'C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.exe
+   logfile = C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.InstallLog
+Installing service GameDeleteUnvalidatedUsers...
+Service GameDeleteUnvalidatedUsers has been successfully installed.
+Creating EventLog source GameDeleteUnvalidatedUsers in log Application...
+Committing assembly 'C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.exe
+   logfile = C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.InstallLog
+Uninstalling assembly 'C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.exe
+   logfile = C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.InstallLog
+Removing EventLog source GameDeleteUnvalidatedUsers.
+Service GameDeleteUnvalidatedUsers is being removed from the system...
+Service GameDeleteUnvalidatedUsers was successfully removed from the system.
+Uninstalling assembly 'C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.exe
+   logfile = C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.InstallLog
+Removing EventLog source GameDeleteUnvalidatedUsers.
+Warning: The source GameDeleteUnvalidatedUsers is not registered on the local machine.
+Service GameDeleteUnvalidatedUsers is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.InstallLog
+   assemblypath = C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.exe
+   logtoconsole = 
+Installing service GameDeleteUnvalidatedUsers...
+Service GameDeleteUnvalidatedUsers has been successfully installed.
+Creating EventLog source GameDeleteUnvalidatedUsers in log Application...
+Committing assembly 'C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.InstallLog
+   assemblypath = C:\Users\teecodez\Documents\Visual Studio 2012\Projects\DeleteInactiveUsers\DeleteInactiveUsers\bin\Debug\DeleteInactiveUsers.exe
+   logtoconsole = 
